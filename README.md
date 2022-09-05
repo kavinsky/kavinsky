@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
 <h3 align="center">A Software Developer from Madrid, Spain.</h3>
 
-- 🔭 I’m currently working at [Check24 Spain](https://github.com/check24)
+- 🔭 I’m currently working at [Mr.Milu](https://github.com/mrmilu)
 
 - 🌱 I’m currently learning **Everything it passes over my mind**
 
